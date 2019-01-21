@@ -1,0 +1,48 @@
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#Enregistrer {
+  background-color: #FCA617;
+  border: none;
+}
+
+#map {
+  width: 100%;
+}
+
+.container {
+  padding: 0;
+}
+
+.results-city {
+  border: 1px solid #CED4D9;
+  padding: 10px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center
+}
+
+
+.results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.results-space {
+  margin-right : 5px;
+}
+
+.badge-danger {
+  background-color: #FCA617;
+  border: none;
+}
+
+
+
+#delete {
+  width: 25px;
+}
